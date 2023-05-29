@@ -6,7 +6,8 @@ public class Principale {
 				               {"Enzo", "Carlo", "Anna"},       //1
 				               {"Franco","Giorgio", "Luca"},    //2
 				               {"Lea", "Teo", "Lina"},          //3
-				               {"Paolo","Bob", "Mascia"}        //4
+				               {"Paolo","Bob", "Mascia"},        //4
+				               {"Ugo","Mia", "Aldo"}        //5
 				             };
 		
 		int[][][] numeri = { { {1,2}, {3,4}, {5,6} }, 
